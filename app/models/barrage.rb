@@ -1,0 +1,2 @@
+class Barrage < ApplicationRecord
+end
